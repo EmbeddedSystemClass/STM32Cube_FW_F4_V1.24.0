@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+*.msi
+*.hex
+
+
+# large files
+./Middlewares/ST/TouchGFX/installer/TouchGFX-4.10.0.msi
+./Projects/STM32469I_EVAL/Demonstrations/STemWin/Binary/STM32469I_EVAL_Demo_V1.2.0_FULL.hex
